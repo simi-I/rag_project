@@ -1,0 +1,7 @@
+streamlit
+fastapi
+groq
+uvicorn
+langchain
+langchain-groq
+python-dotenv
