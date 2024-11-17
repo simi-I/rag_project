@@ -2,6 +2,5 @@ streamlit
 fastapi
 groq
 uvicorn
-langchain
-langchain-groq
+llama-index
 python-dotenv
